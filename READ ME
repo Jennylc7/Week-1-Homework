@@ -1,0 +1,7 @@
+1.  I checked the source code to see if it was readable.
+2.  I checked the HTML elements and made sure the structure was readable.
+3.  I added alt attributes to the images.
+4.  I fixed the broken "Search Engine Optimization" link.
+5.  I added comments to both the HTML and CSS files.
+6.  I renamed the title to be in line with the company message.
+7.  I changed the HTML elements that were labled "Class" elements in the CSS code, so that thay would reflect HTML code.  The Class labeling was unneccessary.
